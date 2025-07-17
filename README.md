@@ -2,6 +2,8 @@
 
 A fast and lightweight CLI tool for downloading GitHub repos subfolders easily
 
+![demo.gif](./assets/demo.gif)
+
 ## 📦 Installation
 
 ### From Source
@@ -28,6 +30,8 @@ gh-dlp <Path_To_Github_Repo>
 Example Usage: 
 
 - Use -d or --dir flags to download to specific directory .You can also do -d=path/to/dir or --dir=path/to/dir as well. They all are basically the same thing.
+
+![demo2.gif](./assets/demo2.gif)
 
 ```bash
 # Download to current directory (default behavior)
