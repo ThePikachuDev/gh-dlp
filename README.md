@@ -4,9 +4,11 @@ A fast and lightweight CLI tool for downloading GitHub repo's subfolders easily
 
 ![demo.png](./assets/demo.png)
 
+
 ## 📦 Installation
 
 ### From Source
+
 
 ```bash
 git clone https://github.com/ThePikachuDev/gh-dlp
@@ -19,6 +21,8 @@ go build -o gh-dlp main.go
 ```bash
 go install github.com/ThePikachuDev/gh-dlp@latest
 ```
+
+### Download respective binary according to your OS from [Releases](https://github.com/ThePikachuDev/gh-dlp/releases) Page
 
 ## 🛠️ Usage
 
