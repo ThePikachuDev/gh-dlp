@@ -1,6 +1,11 @@
 # Where should we write the GIF?
 Output demo.gif
 
+Set Shell zsh
+Set Theme "GruvboxDark"
+Set PlaybackSpeed 2.0 # Make output 2 times faster
+Set WindowBar Colorful
+
 # Set up a 1200x600 terminal with 46px font.
 Set FontSize 20
 Set Width 1200

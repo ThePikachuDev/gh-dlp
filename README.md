@@ -1,6 +1,6 @@
 # gh-dlp
 
-A fast and lightweight CLI tool for downloading GitHub repos subfolders easily
+A fast and lightweight CLI tool for downloading GitHub repo's subfolders easily
 
 ![demo.gif](./assets/demo.gif)
 
