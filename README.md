@@ -2,7 +2,7 @@
 
 A fast and lightweight CLI tool for downloading GitHub repo's subfolders easily
 
-![demo.gif](./assets/demo.gif)
+![demo.png](./assets/demo.png)
 
 ## 📦 Installation
 
