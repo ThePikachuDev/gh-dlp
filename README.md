@@ -9,6 +9,8 @@ A fast and lightweight CLI tool for downloading GitHub repo's subfolders easily
 
 ### From Source
 
+### Download respective binary according to your OS from [Releases](https://github.com/ThePikachuDev/gh-dlp/releases) Page ( recommended)
+
 
 ```bash
 git clone https://github.com/ThePikachuDev/gh-dlp
@@ -22,8 +24,10 @@ go build -o gh-dlp main.go
 go install github.com/ThePikachuDev/gh-dlp@latest
 ```
 
-### Download respective binary according to your OS from [Releases](https://github.com/ThePikachuDev/gh-dlp/releases) Page
+- copy paste your gh-dlp binary to your $PATH directory
 
+- or just run it directly from the cloned directory
+ 
 ## 🛠️ Usage
 
 ```bash
@@ -35,7 +39,7 @@ Example Usage:
 
 - Use -d or --dir flags to download to specific directory .You can also do -d=path/to/dir or --dir=path/to/dir as well. They all are basically the same thing.
 
-![demo2.gif](./assets/demo2.gif)
+![demo2.png](./assets/demo2.png)
 
 ```bash
 # Download to current directory (default behavior)
