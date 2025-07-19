@@ -9,9 +9,6 @@ A fast and lightweight CLI tool for downloading GitHub repo's subfolders easily
 
 ### From Source
 
-### Download respective binary according to your OS from [Releases](https://github.com/ThePikachuDev/gh-dlp/releases) Page ( recommended)
-
-
 ```bash
 git clone https://github.com/ThePikachuDev/gh-dlp
 cd gh-dlp
@@ -23,6 +20,8 @@ go build -o gh-dlp main.go
 ```bash
 go install github.com/ThePikachuDev/gh-dlp@latest
 ```
+
+### Download respective binary according to your OS from [Releases](https://github.com/ThePikachuDev/gh-dlp/releases) Page
 
 - copy paste your gh-dlp binary to your $PATH directory
 
